@@ -11,25 +11,25 @@
 
          ![](001.png)
 
-   For this example, we are using two historical endpoints:
+      For this example, we are using two historical endpoints:
 
-   - **/equities/eod/stock-prices**
-     - stock price data
-   - **/equities/eod/ivx**
-     - volatility (IVX)
+      - **/equities/eod/stock-prices**
+        - stock price data
+      - **/equities/eod/ivx**
+        - volatility (IVX)
 
-   which take username, password, date-range:
+      which take username, password, date-range:
 
-   - **username**
-   - **password**
-   - **From** 
-   - **To**
+      - **username**
+      - **password**
+      - **From** 
+      - **To**
 
-   and stock symbol: 
+      and stock symbol: 
 
-   - **ticker** 
+      - **ticker** 
 
-   parameters.
+      parameters.
 
    The IVX, short for Implied Volatility Index, is calculated by using raw IV data with a proprietary weighting technique, factoring the delta and vega of each option.
 
