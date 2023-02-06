@@ -1,5 +1,5 @@
 # Example of how to use the IVolatility Rest API with Excel
-##
+
 ## Requirements
 - Microsoft Excel 2016 or later
 - Microsoft Power Query 
