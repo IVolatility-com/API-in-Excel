@@ -9,7 +9,7 @@
 ## User Guide
 1. Open “test API.xlsx” Excel file and switch to the **PARAMS** worksheet
 
-![](001.png)
+      ![](001.png)
 
 For this example, we are using two historical endpoints:
 
