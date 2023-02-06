@@ -3,7 +3,7 @@
 ## Requirements
 - Microsoft Excel 2016 or later
 - Microsoft Power Query 
-  - To learn more about Microsoft Power Query, please visit Microsoft’s <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank">official documentation</a>.
+   - To learn more about Microsoft Power Query, please visit Microsoft’s <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank">official documentation</a>.
 - [test API.xlsx](https://github.com/IVolatility-com/API-in-Excel/raw/main/test%20API.xlsx)
   - This is IVolatility’s prepared worksheet that demonstrates the use of the API.
 ## User Guide
@@ -33,9 +33,9 @@
 
       The IVX, short for Implied Volatility Index, is calculated by using raw IV data with a proprietary weighting technique, factoring the delta and vega of each option.
 
-      For more information on the IVX, please visit IVolatility’s documentation (<https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX>), as well as Wikipedia (<https://en.wikipedia.org/wiki/IVX>).
+      For more information on the IVX, please visit IVolatility’s <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX" target="_blank">documentation</a>, as well as <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a>.
 
-      Within IVolatility’s documentation, you may also find more information on the EOD stock price data (<https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equity%20Prices>). 
+      Within IVolatility’s documentation, you may also find <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equity%20Prices" target="_blank">more information</a> on the EOD stock price data. 
 
    2. After inputting the necessary parameters, from the menu, select **Data** and click on **Refresh All**
 
