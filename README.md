@@ -4,10 +4,10 @@
 - Microsoft Excel 2016 or later
 - Microsoft Power Query 
    - To learn more about Microsoft Power Query, please visit Microsoft’s <a href="https://learn.microsoft.com/en-us/power-query/" target="_blank">official documentation</a>.
-- [test API.xlsx](https://github.com/IVolatility-com/API-in-Excel/raw/main/test%20API.xlsx)
+- [test API.xlsx](https://github.com/IVolatility-com/API-in-Excel/raw/main/test%20API.xlsx) Excel file
   - This is IVolatility’s prepared worksheet that demonstrates the use of the API.
 ## User Guide
-   1. Open [test API.xlsx](https://github.com/IVolatility-com/API-in-Excel/raw/main/test%20API.xlsx) Excel file and switch to the **PARAMS** worksheet
+   1. Open [test API.xlsx](https://github.com/IVolatility-com/API-in-Excel/raw/main/test%20API.xlsx) and switch to the **PARAMS** worksheet
 
          ![](images/001.png)
 
