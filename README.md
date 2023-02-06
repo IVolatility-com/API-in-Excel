@@ -4,7 +4,7 @@
 - Microsoft Excel 2016 or later
 - Microsoft Power Query 
   - To learn more about Microsoft Power Query, please visit Microsoft’s official documentation: <https://learn.microsoft.com/en-us/power-query/>
-- ![test API.xlsx](test API.xlsx)
+- <a href="test API.xlsx" download>test API.xlsx</a>
   - This is IVolatility’s prepared worksheet that demonstrates the use of the API.
 ## User Guide
    1. Open ![test API.xlsx](test API.xlsx) Excel file and switch to the **PARAMS** worksheet
