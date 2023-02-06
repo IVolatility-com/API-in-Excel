@@ -17,7 +17,7 @@
       - <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX" target="_blank">**/equities/eod/ivx**</a>
         - You may also visit <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a> for more info on the IVX.
 
-      which take username, password, date-range:
+      which take login info, date-range:
 
       - **username**
       - **password**
