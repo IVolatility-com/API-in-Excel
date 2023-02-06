@@ -71,6 +71,7 @@ Within IVolatility’s documentation, you may also find more information on the 
 
 
       After clicking on **Data Analysis**, select **Correlation** and press **OK**:
+      
       ![](008.png)
 
 
@@ -89,13 +90,13 @@ Within IVolatility’s documentation, you may also find more information on the 
 - risk-return chart of the stocks in the portfolio:
 
       ![](011.png)
-   
+
 
 5. On **Sheet3**, with the use of regression modelling and the correlation matrix, you will find all of the portfolio calculations on the retrieved datasets. They include the annualized returns (APR), volatility (IVX and standard deviations), R2 scores and correlations of each of the stocks with respect to the Nasdaq index.
 
-   ![](012.png)
+      ![](012.png)
 
 6. And, finally, in the **MAIN** worksheet, you will find the individual stocks’, as well as the aggregate portfolio’s, alpha and beta stats.
 
-   ![](013.png)
+      ![](013.png)
 
