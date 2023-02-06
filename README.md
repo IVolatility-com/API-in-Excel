@@ -99,5 +99,5 @@
 
    6. And, finally, in the **MAIN** worksheet, you will find the individual stocks’, as well as the aggregate portfolio’s, alpha and beta stats.
 
-         ![](013.png)
+         ![](images/013.png)
 
