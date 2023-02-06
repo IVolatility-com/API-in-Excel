@@ -45,7 +45,7 @@
 
       - **stock-prices**
 
-            ![](003.png)
+         ![](003.png)
 
          Next to the price data, the table also contains logarithmic returns for each of the stocks, indicated by “\_log”.
 
