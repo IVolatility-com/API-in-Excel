@@ -86,7 +86,7 @@
          ![](images/010.png)
 
 
-         Excel will then calculate the correlation matrix and output it where you’ve specified. And, after a bit of formatting, it may look similar to the above correlation matrix.
+         Excel will then calculate and output the correlation matrix. After a bit of formatting, it may look similar to the above correlation matrix.
 
       - risk-return chart of the stocks in the portfolio:
 
