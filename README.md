@@ -3,7 +3,7 @@
 ## Requirements
 - Microsoft Excel 2016 or later
 - Microsoft Power Query 
-  - To learn more about MS Power Query, please visit Microsoft’s official documentation: <https://learn.microsoft.com/en-us/power-query/>
+  - To learn more about Microsoft Power Query, please visit Microsoft’s official documentation: <https://learn.microsoft.com/en-us/power-query/>
 - test API.xlsx
   - This is IVolatility’s prepared worksheet that demonstrates the use of the API.
 ## User Guide
