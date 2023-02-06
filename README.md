@@ -13,10 +13,9 @@
 
       For this example, we are using two historical endpoints:
 
-      - **/equities/eod/stock-prices**
-        - stock price data
-      - **/equities/eod/ivx**
-        - volatility (IVX)
+      - <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equity%20Prices" target="_blank">**/equities/eod/stock-prices**</a>
+      - <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX" target="_blank">**/equities/eod/ivx**</a>
+        - You may also visit <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a> for more info on the IVX.
 
       which take username, password, date-range:
 
@@ -33,9 +32,9 @@
 
       The IVX, short for Implied Volatility Index, is calculated by using raw IV data with a proprietary weighting technique, factoring the delta and vega of each option.
 
-      For more information on the IVX, please visit IVolatility’s <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX" target="_blank">documentation</a>, as well as <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a>.
+      [//]: # For more information on the IVX, please visit IVolatility’s <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX" target="_blank">documentation</a>, as well as <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a>.
 
-      Within IVolatility’s documentation, you may also find <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equity%20Prices" target="_blank">more information</a> on the EOD stock price data. 
+      [//]: # Within IVolatility’s documentation, you may also find <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equity%20Prices" target="_blank">more information</a> on the EOD stock price data. 
 
    2. After inputting the necessary parameters, from the menu, select **Data** and click on **Refresh All**
 
