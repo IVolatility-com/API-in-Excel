@@ -15,6 +15,7 @@
 
       - <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equity%20Prices" target="_blank">**/equities/eod/stock-prices**</a>
       - <a href="https://redocly.github.io/redoc/?nocors&url=https://restapi.ivolatility.com/api-docs#tag/EOD-Equities/operation/EOD%20Equities%20IVX" target="_blank">**/equities/eod/ivx**</a>
+        - The **IVX**, short for Implied Volatility Index, is calculated by using raw IV data with a proprietary weighting technique, factoring the delta and vega of each option.
         - You may also visit <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a> for more info on the IVX.
 
       which take login info, date-range:
