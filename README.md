@@ -18,7 +18,7 @@
         - The **IVX**, short for Implied Volatility Index, is calculated by using raw IV data with a proprietary weighting technique, factoring the delta and vega of each option.
         - You may also visit <a href="https://en.wikipedia.org/wiki/IVX" target="_blank">Wikipedia</a> for more info on the IVX.
 
-      The above endpoints take the following take login info, date-range, and stock symbol as parameters:
+      The above endpoints take login info, date-range, and stock symbol as parameters:
 
       - **username**
       - **password**
